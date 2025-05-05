@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - 🔭 I’m currently working on AI and ML projects<br>- 🤝 I’m looking to collaborate on Front-end, Privacy Tech, and Security Projects <br>- 🌱 I’m currently learning DevOps ,AWS<br>- ⚡ Fun fact: I’m currently studying at VIT Bhopal University and love turning research ideas into prototypes!
 
 
