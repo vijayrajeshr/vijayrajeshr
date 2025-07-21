@@ -1,7 +1,7 @@
 Hey !!! Click Here to see my portfolio 🌟 !!! - 🔗 https://vijayrajeshr.vercel.app/ 
 
 #  About Me:
-- 🔭 I’m currently working on AI and ML projects<br>- 🤝 I’m looking to collaborate on Front-end, Privacy Tech, and Security Projects <br>- 🌱 I’m currently learning DevOps, AWS<br>- ⚡ Fun fact: I’m currently studying at VIT Bhopal University and love turning research ideas into prototypes!
+- 🔭 I’m currently working on AI and ML projects<br>- 🤝 I’m looking to collaborate on Front-end, Privacy Tech, and Security Projects <br>- 🌱 Oracle Certified Gen AI Professional <br>- ⚡ Fun fact: I’m currently studying at VIT Bhopal University and love turning research ideas into prototypes!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayrajeshr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayrajeshr@gmail.com) 
