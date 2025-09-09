@@ -12,4 +12,6 @@ Hey !!! Click Here to see my portfolio 🌟 !!! - 🔗 https://vijayrajeshr.verc
 ###  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+- 📄 **Resume:** [Click to view my Resume](https://github.com/your-username/your-repo/raw/main/vijay-resume-09.09.25.pdf)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
