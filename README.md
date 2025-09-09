@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <h2>📄 My Resume</h2>
+  <h2>📃 My Resume</h2>
   <a href="https://github.com/vijayrajeshr/vijayrajeshr/raw/main/vijay-resume-09.09.25.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
