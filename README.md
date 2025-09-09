@@ -23,7 +23,7 @@
 
 <br>
 
-### 🔗 Connect With Me
+### 🔗 Connect
 <div align="center">
   <a href="https://github.com/vijayrajeshr" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
@@ -36,12 +36,8 @@
   </a>
   <br>
   <br>
-  <a href="https://github.com/vijayrajeshr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vijayrajeshr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vijayrajeshr?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vijayrajeshr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
+  
+
 </div>
 
 <br>
