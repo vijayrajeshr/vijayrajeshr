@@ -70,7 +70,7 @@
 <br>
 
 <div align="center">
-  ## 📄 My Resume
+  ### 📄 My Resume
   <a href="https://github.com/vijayrajeshr/vijayrajeshr/vijay-resume-09.09.25.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
