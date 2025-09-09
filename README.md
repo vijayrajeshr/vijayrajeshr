@@ -71,7 +71,7 @@
 
 
 ### 📄 My Resume
-  <a href="https://github.com/vijayrajeshr/vijayrajeshr/vijay-resume-09.09.25.pdf" target="_blank">  Download Resume 
+  <a href="https://github.com/vijayrajeshr/vijayrajeshr/vijay-resume-09.09.25.pdf" target="https://github.com/vijayrajeshr/vijayrajeshr/vijay-resume-09.09.25.pdf">  Download Resume 
     
   </a>
 
