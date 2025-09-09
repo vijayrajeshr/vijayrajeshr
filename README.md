@@ -69,7 +69,7 @@
 ### 📄 My Resume
 
 <div align="center">
-  <a href="https://github.com/your-username/your-repo/raw/main/vijay-resume-09.09.25.pdf" target="_blank">
+  <a href="https://github.com/your-username/your-repo/raw/main/vijay-resume-09.09.25.pdf" target="[_blank](https://github.com/vijayrajeshr/vijayrajeshr/blob/main/vijay-resume-09.09.25.pdf)">
     <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
 </div>
