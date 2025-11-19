@@ -18,6 +18,7 @@
 * 🔭 Currently working on **AI** and **ML** projects
 * 🤝 Looking to collaborate on **Front-end**, **Privacy Tech**, and **Security** projects
 * 🌱 Oracle Certified Gen AI Professional
+* ☁️ AWS Cloud
 * 👨‍💻 Active open-source contributor
 * ⚡ Fun fact: Student at VIT Bhopal University who loves turning research ideas into prototypes!
 
