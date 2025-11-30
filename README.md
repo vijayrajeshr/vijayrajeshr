@@ -7,7 +7,7 @@
   </a>
 </div>
 
-**`AI/ML Developer & Open-Source Contributor`**
+**`Oracle Certified Gen AI Professional | AI/Ml | AWS Cloud | Open-Source Contributor`**
 
 </div>
 
