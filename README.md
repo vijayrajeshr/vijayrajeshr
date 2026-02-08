@@ -52,7 +52,7 @@
 <div align="center">
   <h1>📃 My Resume</h1>
   <a href="https://github.com/vijayrajeshr/Vijay-Resume/blob/main/Vijay%20Rajesh%20R%20-%20Resume%20-%20JAN%202026.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Click Here To View !" />
   </a>
   <h2>🌐 My Portfolio Site</h2>
   https://vijayrajeshr.vercel.app/ 
