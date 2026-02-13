@@ -7,7 +7,7 @@
   </a>
 </div>
 
-**`AWS Certified Cloud Practitioner | Oracle Certified Gen AI Professional | AI/Ml | AWS Cloud | Open-Source Contributor`**
+**`AWS Certified Cloud Practitioner | Oracle Certified Gen AI Professional | AI/Ml | Open-Source Contributor`**
 
 </div>
 
