@@ -92,12 +92,6 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Inspirational quotes" />
-</div>
-
-<br>
-
-<div align="center">
   <h1>📃 My Resume</h1>
   <a href="https://github.com/vijayrajeshr/Vijay-Resume/blob/main/Vijayrajeshr%20-%20resume%20FEB%202026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Click Here To View !" />
