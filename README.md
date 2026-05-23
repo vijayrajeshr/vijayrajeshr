@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=224&section=header&reversal=true&text=VIJAY%20%20RAJESH%20%20R&fontSize=67&fontColor=#000000&fontAlign=50&fontAlignY=50&rotate=0&stroke=FF00FF&strokeWidth=1.4&animation=fadeIn&descSize=53&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=224&section=header&reversal=true&text=VIJAY%20%20RAJESH%20%20R&fontSize=67&fontColor=#000000&fontAlign=50&fontAlignY=50&rotate=0&stroke=FF00FF&strokeWidth=1.4&animation=fadeIn&descSize=53&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/vijayrajeshr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="vijayrajeshr@gmail.com" target="_blank">
+  <a href="mailto:vijayrajeshr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
   </a>
   <a href="https://gitlab.com/vijayrajeshr" target="_blank">
@@ -32,9 +32,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vijayrajeshr/vijayrajeshr/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayrajeshr&theme=react-dark&bg_color=0d1117" height="300" alt="activity-graph graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=vijayrajeshr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/vijayrajeshr/vijayrajeshr/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijayrajeshr&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -83,12 +83,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vijayrajeshr/vijayrajeshr/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <br>
 
 <div align="center">
@@ -97,5 +91,5 @@
     <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Click Here To View !" />
   </a>
   <h2>🌐 My Portfolio Site</h2>
-  https://vijayrajeshr.vercel.app/ 
+  <a href="https://vijayrajeshr.vercel.app/" target="_blank">https://vijayrajeshr.vercel.app/</a>
 </div>
