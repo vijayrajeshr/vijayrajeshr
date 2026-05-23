@@ -32,9 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayrajeshr&theme=react-dark&bg_color=0d1117&v=refresh_1" height="300" alt="activity-graph graph" /> <br>
-  
-  <img src="https://streak-stats.demolab.com?user=vijayrajeshr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&cache_seconds=0" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayrajeshr&theme=react-dark&bg_color=0d1117&v=refresh_2" height="300" alt="activity-graph graph" /> <br>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijayrajeshr&layout=compact&theme=dracula&cache_seconds=0" height="150" alt="languages graph" />
 </div>
