@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🌍 Based in India 🇮🇳<br>🔭 Currently working on AI, ML, and MLOps projects<br>🧠 Expert in LLM Fine-Tuning & Pipeline Engineering<br>🐳 Skilled in Docker, AWS, and Cloud Deployment<br>⚙️ Experienced with Git Pipelines and CI/CD<br>🤝 Looking to collaborate on Front-end, Privacy Tech, and Security projects<br>🌱 Oracle Certified Gen AI Professional | AWS Cloud<br>👨‍💻 Active open-source contributor<br>⚡ Fun fact: Student at VIT Bhopal University who loves turning research ideas into prototypes!</p>
+<p align="left">🌍 Based in India 🇮🇳<br>🔭 Currently working on AI, ML, and Cloud projects<br>🧠 Expert in LLM Fine-Tuning & Pipeline Engineering<br>🐳 Skilled in Docker, AWS, and Cloud Deployment<br>⚙️ Experienced with Git Pipelines and CI/CD<br>🤝 Looking to collaborate on Front-end, Privacy Tech, and Security projects<br>🌱 Oracle Certified Gen AI Professional | AWS Cloud<br>👨‍💻 Active open-source contributor<br>⚡ Fun fact: Student at VIT Bhopal University who loves turning research ideas into prototypes!</p>
 
 ###
 
