@@ -31,11 +31,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayrajeshr&theme=react-dark&bg_color=0d1117&v=refresh_2" height="300" alt="activity-graph graph" /> <br>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijayrajeshr&layout=compact&theme=dracula&cache_seconds=0" height="150" alt="languages graph" />
-</div>
+
 
 ###
 
@@ -86,10 +82,7 @@
 <br>
 
 <div align="center">
-  <h1>📃 My Resume</h1>
-  <a href="https://github.com/vijayrajeshr/Vijay-Resume/blob/main/Vijayrajeshr%20-%20resume%20FEB%202026.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-232323?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Click Here To View !" />
-  </a>
+
   <h2>🌐 My Portfolio Site</h2>
   <a href="https://vijayrajeshr.vercel.app/" target="_blank">https://vijayrajeshr.vercel.app/</a>
 </div>
